@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+REV:2023-01-10T03:24:00Z
+N;CHARSET=utf-8:VŨ ĐỨC PHONG;;;;
+FN;CHARSET=utf-8:VŨ ĐỨC PHONG
+ORG;CHARSET=utf-8:CÔNG TY CỔ PHẦN ISTUDIO VIETNAM
+TITLE;CHARSET=utf-8:Giám đốc
+ROLE;CHARSET=utf-8:Giám đốc
+EMAIL;INTERNET:heads@i-studio.com.vn
+TEL;PREF;WORK:0963367173
+TEL;WORK:
+ADR;WORK;POSTAL;CHARSET=utf-8:162 Nguyễn Văn Thủ, Phường Đa Kao, Quận 1, Tp. Hồ Chí Minh, Vietnam;;;;;;
+URL;TYPE=Profile:undefined
+URL;TYPE=Website:https://i-studio.com.vn/
+URL;TYPE=Facebook:https://www.facebook.com/vuducphong.net
+URL;TYPE=Zalo:https://zalo.me/0963367173
+URL;TYPE=Viber:viber://chat?number=+840963367173
+URL;TYPE=Whatsapp:https://wa.me/0963367173
+END:VCARD
